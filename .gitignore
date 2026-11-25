@@ -1,0 +1,11 @@
+# Only scripts, config and the holder folders are tracked; the projects inside are separate repos
+# cloned by scripts/workspace.py from structure.json.
+.idea/
+mods/*
+!mods/.gitkeep
+reference/*
+!reference/.gitkeep
+prism-instances/*
+!prism-instances/.gitkeep
+!prism-instances/instgroups.json
+__pycache__/

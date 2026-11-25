@@ -1,0 +1,25 @@
+[
+  {
+    "prism-instances": [
+      {"name": "MagicMod", "url": "git@github.com:legoGonkDroid/MagicMod.git", "branch": "integration"}
+    ]
+  },
+  {
+    "mods": [
+      {"name": "ArsKingdom", "url": "git@github.com:legoGonkDroid/ArsKingdom.git", "branch": "structure-rework"},
+      {"name": "ArsReSources", "url": "git@github.com:legoGonkDroid/ArsReSources.git", "branch": "main"}
+    ]
+  },
+  {
+    "reference": [
+      {"name": "ArsNouveau", "url": "https://github.com/baileyholl/Ars-Nouveau.git", "branch": "main", "depth": 1},
+      {"name": "MineColonies", "url": "https://github.com/ldtteam/minecolonies.git", "branch": "version/1.21", "depth": 1},
+      {"name": "ArsDeco", "url": "https://github.com/LambdaMagus/Ars-Deco.git", "branch": "main", "depth": 1},
+      {"name": "Structurize", "url": "https://github.com/ldtteam/Structurize.git", "branch": "version/1.21", "depth": 1},
+      {"name": "BlockUI", "url": "https://github.com/ldtteam/BlockUI.git", "branch": "version/main", "depth": 1},
+      {"name": "DomumOrnamentum", "url": "https://github.com/ldtteam/Domum-Ornamentum.git", "branch": "version/1.21", "depth": 1},
+      {"name": "GeckoLib", "url": "https://github.com/bernie-g/geckolib.git", "branch": "1.21.1", "depth": 1},
+      {"name": "Curios", "url": "https://github.com/TheIllusiveC4/Curios.git", "branch": "1.21.1", "depth": 1}
+    ]
+  }
+]
